@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Geofencing OSM</string>
+
+    <string name="add_geofences">Aggiungi Geofence</string>
+    <string name="remove_geofences">Rimuovi Geofence</string>
+    <string name="geofences_added">Geofence aggiunte</string>
+    <string name="geofences_removed">Geofence rimosse</string>
+
+    <string name="insufficient_permissions">Permessi insufficienti</string>
+    <string name="geofence_not_available">Servizio geofence non disponibile</string>
+    <string name="geofence_too_many_geofences">Troppe geofence registrate (max 100)</string>
+    <string name="geofence_too_many_pending_intents">Troppi PendingIntent</string>
+    <string name="unknown_geofence_error">Errore geofencing sconosciuto</string>
+    <string name="geofence_transition_invalid_type">Tipo transizione non valido: %1$d</string>
+
+    <string name="geofence_transition_entered">ENTRATO</string>
+    <string name="geofence_transition_exited">USCITO</string>
+    <string name="unknown_geofence_transition">SCONOSCIUTO</string>
+    <string name="geofence_transition_notification_text">Tocca per aprire l\'app</string>
+</resources>
